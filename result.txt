@@ -1,0 +1,1 @@
+Total de lineas de archivo = 46 Total lineas de codigo = 18 Numero de metodos = 1
